@@ -3,7 +3,7 @@ A c++ project . In this project I try to solve an 8-Puzzle using Bread-first-Sea
 The project is split into 4 parts
 
 
-state of board : consists of a single string of digits and the hash symbol
+state of board : consists of a single string of digits and the hash symbol , hash symbol represent empty tile
 
 Part1 - setting the board
 Input: state of board
